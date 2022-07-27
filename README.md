@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @0xKino
-- 👀 I’m interested in Web3
+- 👀 I’m interested in Prompts
 - 🌱 I’m currently learning javascript, css/html, solidity, rust, cairo
 - 💞️ I’m looking to collaborate on DeFi protocols or forks
 - 📫 How to reach me -> @0xKino on Twitter
